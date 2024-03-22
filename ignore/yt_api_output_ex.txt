@@ -1,0 +1,397 @@
+
+
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "dj8_HsTtWarxHsf0FfIKz3BFstI",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "ID",
+  "pageInfo": {
+    "totalResults": 536,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-YryXHNs89K24FvItTBirucMfB0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QVFHbxcaESk"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-14T12:00:15Z",
+        "channelId": "UC4DogC2xftpKFlF-XgZoRBg",
+        "title": "Pevita Pearce jarang mandi???",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QVFHbxcaESk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QVFHbxcaESk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QVFHbxcaESk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cretivox",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-14T12:00:15Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4-sA81QG0O4TMQC9SMTQleZG6Vo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HmFbdcI4NWM"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-16T04:27:01Z",
+        "channelId": "UC4DogC2xftpKFlF-XgZoRBg",
+        "title": "Kalo Gaji Lo Berapa?",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HmFbdcI4NWM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HmFbdcI4NWM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HmFbdcI4NWM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cretivox",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-16T04:27:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "q0prUPzeF3p4mNNgWeMNV7wePWw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dBiy4iSNVGM"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-16T06:05:12Z",
+        "channelId": "UC4DogC2xftpKFlF-XgZoRBg",
+        "title": "Red flag kalian apa nich ciwi-ciwi?😩😩😩",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dBiy4iSNVGM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dBiy4iSNVGM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dBiy4iSNVGM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cretivox",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-16T06:05:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AIzlxhh0BAT2kX_YnQv8IWvH8_s",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jC_a5AMxKHU"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-05T19:08:01Z",
+        "channelId": "UC4DogC2xftpKFlF-XgZoRBg",
+        "title": "Jam segini enaknya overthinking ya kan…..",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jC_a5AMxKHU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jC_a5AMxKHU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jC_a5AMxKHU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cretivox",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-05T19:08:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SrhpePsZ7f1BeAMOEYX_fsmPMJA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "sKSoyCBqdGs"
+      },
+      "snippet": {
+        "publishedAt": "2023-02-03T09:26:55Z",
+        "channelId": "UC4DogC2xftpKFlF-XgZoRBg",
+        "title": "Hadeeeeeh",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sKSoyCBqdGs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sKSoyCBqdGs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sKSoyCBqdGs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Cretivox",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-02-03T09:26:55Z"
+      }
+    }
+  ]
+}
+
+
+
+
+
+
+CommentThreads Example:
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "7AUU1FSwmxk2FPxXBJXVfdKY1Es",
+  "nextPageToken": "Z2V0X25ld2VzdF9maXJzdC0tQ2dnSWdBUVZGN2ZST0JJRkNJY2dHQUFTQlFpSUlCZ0FFZ1VJblNBWUFSSUZDSWtnR0FBU0JRaW9JQmdBR0FBaURnb01DTERMcjYwR0VMalN6cEVD",
+  "pageInfo": {
+    "totalResults": 5,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "_hql1gdxoDKKcVsA9nYwvhgFP14",
+      "id": "Ugyh01WkCty1Y2ZIXnt4AaABAg",
+      "snippet": {
+        "channelId": "UC4DogC2xftpKFlF-XgZoRBg",
+        "videoId": "SWpHLE5utGk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "tP2c0BVZaqWYls1jcKTm9uijWAc",
+          "id": "Ugyh01WkCty1Y2ZIXnt4AaABAg",
+          "snippet": {
+            "channelId": "UC4DogC2xftpKFlF-XgZoRBg",
+            "videoId": "SWpHLE5utGk",
+            "textDisplay": "Ada boty nya ini wkwk",
+            "textOriginal": "Ada boty nya ini wkwk",
+            "authorDisplayName": "@user-ux9cd1em8w",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/4E0uAjQtXMqTCK_EoNY4734MRHL-c8WSLZFuk6wPr5jZlESjZ6dcJQQV3PMn5V_f3Z_0_w-2kg=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@user-ux9cd1em8w",
+            "authorChannelId": {
+              "value": "UCt02Br9WFOGQDWJKF8-U6FA"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2024-01-24T05:35:03Z",
+            "updatedAt": "2024-01-24T05:35:03Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "6LGzyygzdOGXBqe-BAgskgDnQZg",
+      "id": "Ugw-KbScM0ppKPoyZRt4AaABAg",
+      "snippet": {
+        "channelId": "UC4DogC2xftpKFlF-XgZoRBg",
+        "videoId": "SWpHLE5utGk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "vBQOh4FEJt3kZYTSA5XsmulqDoE",
+          "id": "Ugw-KbScM0ppKPoyZRt4AaABAg",
+          "snippet": {
+            "channelId": "UC4DogC2xftpKFlF-XgZoRBg",
+            "videoId": "SWpHLE5utGk",
+            "textDisplay": "wkakakakaka",
+            "textOriginal": "wkakakakaka",
+            "authorDisplayName": "@ghoziaufaa1165",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mk3BmemuOzPNgPOoN0rTHgCG7SlPAE1JZjKo-tXw=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@ghoziaufaa1165",
+            "authorChannelId": {
+              "value": "UCMD-Kg8sR0mXpvrBaIbcoPQ"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2024-01-21T10:26:40Z",
+            "updatedAt": "2024-01-21T10:26:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "ASrmXk-HB6EPmZOK8l6vuQT1xVw",
+      "id": "Ugybmo8FZjN55u5mEJB4AaABAg",
+      "snippet": {
+        "channelId": "UC4DogC2xftpKFlF-XgZoRBg",
+        "videoId": "SWpHLE5utGk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "Jpc5f7jibfTS6_cBnWS4MeoLga8",
+          "id": "Ugybmo8FZjN55u5mEJB4AaABAg",
+          "snippet": {
+            "channelId": "UC4DogC2xftpKFlF-XgZoRBg",
+            "videoId": "SWpHLE5utGk",
+            "textDisplay": "Dafuq 💀💀🙏🏻",
+            "textOriginal": "Dafuq 💀💀🙏🏻",
+            "authorDisplayName": "@rakaaaaap5289",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/OGs-ju-hb_SLRtnadp0iZFmu6Cv_yyMUzJHBtkeXM3oaUxem97wc9qMuGl2HZ22oJ9V-NCeO9A=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@rakaaaaap5289",
+            "authorChannelId": {
+              "value": "UC8DR68MsCvOZ7AZjo3DcJ6w"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2024-01-21T10:01:09Z",
+            "updatedAt": "2024-01-21T10:01:09Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "uXgINYNZ7anMKkeeFIj8f_xgcB0",
+      "id": "UgxJ6gPIytBUpfydITN4AaABAg",
+      "snippet": {
+        "channelId": "UC4DogC2xftpKFlF-XgZoRBg",
+        "videoId": "SWpHLE5utGk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "KYNRfKS8sZRgic30jOEhUbDSRfg",
+          "id": "UgxJ6gPIytBUpfydITN4AaABAg",
+          "snippet": {
+            "channelId": "UC4DogC2xftpKFlF-XgZoRBg",
+            "videoId": "SWpHLE5utGk",
+            "textDisplay": "menit terakhir kek nonton bokep ada bayinya bjir",
+            "textOriginal": "menit terakhir kek nonton bokep ada bayinya bjir",
+            "authorDisplayName": "@KnightBros18",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nc9wg7eX6ZWjQAVJA3ejL-QpivYJ8eX54TuDdc2lc=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@KnightBros18",
+            "authorChannelId": {
+              "value": "UC3_ZAZN_EY_g7KLX3yJEqCg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2024-01-20T18:25:20Z",
+            "updatedAt": "2024-01-20T18:25:20Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "RxkMLdB0ypornDTXPJ5BCR2pBxM",
+      "id": "UgySzE4kPYlmif8IV9p4AaABAg",
+      "snippet": {
+        "channelId": "UC4DogC2xftpKFlF-XgZoRBg",
+        "videoId": "SWpHLE5utGk",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "MRFTqwk9OEmj-64YyRItWDX__k0",
+          "id": "UgySzE4kPYlmif8IV9p4AaABAg",
+          "snippet": {
+            "channelId": "UC4DogC2xftpKFlF-XgZoRBg",
+            "videoId": "SWpHLE5utGk",
+            "textDisplay": "Cihaaa",
+            "textOriginal": "Cihaaa",
+            "authorDisplayName": "@algyanorosadita4032",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mmUl6r9FBFYhRdU786tjBxcmU1Qu5O5TR0AA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@algyanorosadita4032",
+            "authorChannelId": {
+              "value": "UCGAnPKkfWnAg1r-9905zU9Q"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2024-01-20T15:24:33Z",
+            "updatedAt": "2024-01-20T15:24:33Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    }
+  ]
+}
+
+
+
+
+
+ERROR CODE JSON STRUCTURE:
+{
+  "error": {
+    "code": 403,
+    "message": "The request cannot be completed because you have exceeded your \u003ca href=\"/youtube/v3/getting-started#quota\"\u003equota\u003c/a\u003e.",
+    "errors": [
+      {
+        "message": "The request cannot be completed because you have exceeded your \u003ca href=\"/youtube/v3/getting-started#quota\"\u003equota\u003c/a\u003e.",
+        "domain": "youtube.quota",
+        "reason": "quotaExceeded"
+      }
+    ]
+  }
+}
+
+comments_disabled = 4Tcsg6tU3ow
+
+googleapiclient.errors.HttpError: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=id%2Csnippet%2Creplies&maxResults=5&order=relevance&videoId=4Tcsg6tU3ow&key=AIzaSyAPFiPIYO4oIRSyPTEUjPl7XGJYte-JkfI&alt=json returned "The video identified by the <code><a href="/youtube/v3/docs/commentThreads/list#videoId">videoId</a></code> parameter has disabled comments.". Details: 
+"[{'message': 'The video identified by the <code><a href="/youtube/v3/docs/commentThreads/list#videoId">videoId</a></code> parameter has disabled comments.', 'domain': 'youtube.commentThread', 'reason': 'commentsDisabled', 'location': 'videoId', 'locationType': 'parameter'}]
+
